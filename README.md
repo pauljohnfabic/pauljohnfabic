@@ -11,16 +11,10 @@
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/pauljohnfabic">
     <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img src="https://skillicons.dev/icons?i=facebook" height="42"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:paulfabic.dev.mail@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
 </p>
