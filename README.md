@@ -1,4 +1,11 @@
-
+## About Me:
+```text
+🔭 I’m currently working on real estate ERP Projects
+🎓 Bachelor of Science in Computer Engineering
+🤝 Open for project collaboration and commission
+🌱 I’m currently engaged in mobile development
+⚡ I built my own receipt photobooth app
+```
 ## 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@pjdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulfabic.dev.mail@gmail.com) 
 
