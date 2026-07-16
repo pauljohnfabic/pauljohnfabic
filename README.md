@@ -14,6 +14,9 @@
   <a href="https://github.com/pauljohnfabic">
     <img src="https://skillicons.dev/icons?i=github" height="42"/>
   </a>
+  <a href="https://www.tiktok.com/@pjfabic.dev">
+    <img src="https://cdn.simpleicons.org/tiktok/000000" height="42"/>
+  </a>
   <a href="mailto:paulfabic.dev.mail@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
   </a>
