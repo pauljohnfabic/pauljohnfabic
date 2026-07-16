@@ -1,7 +1,7 @@
 ## About Me:
 ```text
-🔭 I’m currently working on real estate ERP Projects
 🎓 Bachelor of Science in Computer Engineering
+🔭 I’m currently working on real estate ERP Projects
 🤝 Open for project collaboration and commission
 🌱 I’m currently engaged in mobile development
 ⚡ I built my own receipt photobooth app
