@@ -23,22 +23,7 @@
 ⚡ Built a self-service receipt photobooth app from scratch
 ```
 
-## 🤝 Connect with me
 
-<p align="left">
-  <a href="https://github.com/pauljohnfabic">
-    <img src="https://skillicons.dev/icons?i=github" height="42"/>
-  </a>
-  <a href="https://www.tiktok.com/@pjfabic.dev">
-    <img src="https://cdn.simpleicons.org/tiktok/000000" height="42"/>
-  </a>
-  <a href="mailto:paulfabic.dev.mail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="42"/>
-  </a>
-</p>
-
-## 🌐 Socials:
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@pjdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulfabic.dev.mail@gmail.com) 
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
